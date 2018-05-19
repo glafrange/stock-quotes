@@ -9,6 +9,8 @@
   "author": "Gabriel Lafrange",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "needle": "^2.2.1"
   }
 }
